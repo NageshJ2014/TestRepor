@@ -1,0 +1,21 @@
+print ("hello world")
+print (7889)
+print ("This is tried")
+greet = ("Greet me with something")
+print (greet)
+c ="hello"
+d = c.replace("l","r")
+print(d)
+l = ["hello", 2,3,4 , 34.5]
+print(l)
+l.insert(1,"World")
+print (l[2])
+print(l)
+t = (23,34,45)
+print(t[1])
+print (l[0] + l[1])
+print (l[-1] + l[-2])
+Hash = {"Name":"Nagesh","Serial":12345}
+print (Hash)
+print (Hash["Name"])
+print (Hash["Serial"])
